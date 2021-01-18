@@ -1,3 +1,4 @@
+print("Trying to Snoop in my loadstring nice try... OBFUSCATED! FUCKER")
 local CypherXHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local Frames = Instance.new("Frame")
@@ -1868,7 +1869,7 @@ PrisonLife_2.TextScaled = true
 PrisonLife_2.TextSize = 24
 PrisonLife_2.TextWrapped = true
 PrisonLife_2.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/M90cqVF3", true))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Prison-Life-Prison-Fucker-V11/main/Prison%20Fucker%20V11%20Updater"))()
 end)
 BadBusi_2.Name = "BadBusi"
 BadBusi_2.Parent = ScrollFunctions_2
@@ -1988,7 +1989,7 @@ BoomboxAdmin_2.TextScaled = true
 BoomboxAdmin_2.TextSize = 24
 BoomboxAdmin_2.TextWrapped = true
 BoomboxAdmin_2.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/eMB7Yr5q", true))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Hub-Lua-Source/main/Cypher%20X%20Boombox%20Admin%20Lua%20Source.lua"))()
 end)
 Vehicle_2.Name = "Vehicle"
 Vehicle_2.Parent = ScrollFunctions_2
