@@ -1,4 +1,3 @@
-print("Trying to Snoop in my loadstring nice try... OBFUSCATED! FUCKER")
 local CypherXHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local Frames = Instance.new("Frame")
