@@ -1838,7 +1838,7 @@ TheStreets_2.TextScaled = true
 TheStreets_2.TextSize = 24
 TheStreets_2.TextWrapped = true
 TheStreets_2.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/PUs5fG5t'), true))()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Hub-Lua-Source/main/Cypher%20X%20The%20Streets%20Hub.lua"))("Enviie Soo Hot!")
 end)
 Arsenal_2.Name = "Arsenal"
 Arsenal_2.Parent = ScrollFunctions_2
